@@ -16,5 +16,5 @@ The app must be capable of make a simple CRUD (create, read, update and delete),
 Clicking in the link below, you will get into each part of this project. <br />
 **Ps:** Into each folder, there's a README.md file explaining a little more about development.
 
-:link: [Dart - Flutter App](HenriqueSaKi/login_project_crud/app) <br />
-:link: [Java - Spring Boot API](HenriqueSaKi/login_project_crud/microservice/login-project)
+:link: [Dart - Flutter App](/login_project_crud/app) <br />
+:link: [Java - Spring Boot API](/login_project_crud/microservice/login-project)
