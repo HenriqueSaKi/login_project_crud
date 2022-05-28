@@ -20,7 +20,7 @@
 Check is the service is available.
 
 ##### Response
-| Http Status | Message |
+| Http Status | Response Body |
 |:--:|--|
 | `200` | The service is available! |
 
@@ -39,7 +39,7 @@ Register a user into a SQL Server database by first name, last name, e-mail and 
 ```
 
 ##### Response 
-| Http Status | Message |
+| Http Status | Response Body |
 |:--:|--|
 | `200` |  |
 | `400` | Failed request. |
@@ -59,7 +59,7 @@ Check user information.
 ```
 
 ##### Response
-| Http Status | Message |
+| Http Status | Response Body |
 |:--:|--|
 | `200` | Accepted! |
 | `409` | There's no account associated with this email. Try another email address or create a new account. |
@@ -80,7 +80,7 @@ Return user data by e-mail and password.
 ```
 
 ##### Response
-| Http Status | Message |
+| Http Status | Response Body |
 |:--:|--|
 | `200` |  |
 
@@ -100,7 +100,7 @@ Update user data by email.
 ```
 
 ##### Response
-| Http Status | Message |
+| Http Status | Response Body |
 |:--:|--|
 | `200` | Updated successfully! |
 
@@ -118,6 +118,6 @@ Delete user by e-mail.
 ```
 
 ##### Response
-| Http Status | Message |
+| Http Status | Response Body |
 |:--:|--|
 | `200` | Account deleted successfully! |
