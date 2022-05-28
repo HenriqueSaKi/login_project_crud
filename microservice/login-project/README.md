@@ -3,8 +3,9 @@
 
 ### API resources
 
+
 | Method | HTTP Request | Endpoint |
-|--|:--:|--|--|
+|--|:--:|--|
 | **`isAvailable`** | **GET** | `http://localhost:8080/login_project/isAvailable` |
 | **`register`** | **POST** | `http://localhost:8080/login_project/register` |
 | **`login`** | **POST** | `http://localhost:8080/login_project/login` |
@@ -20,7 +21,7 @@ Check is the service is available.
 
 ##### Response
 | Http Status | Message |
-|--|--|
+|:--:|--|
 | `200` | The service is available! |
 
 ### register
