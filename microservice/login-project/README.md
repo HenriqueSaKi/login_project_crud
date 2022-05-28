@@ -5,7 +5,7 @@
 
 
 | Method | HTTP Request | Endpoint |
-|--|:--:|--|
+|--|:--:|:--|
 | **`isAvailable`** | **GET** | `http://localhost:8080/login_project/isAvailable` |
 | **`register`** | **POST** | `http://localhost:8080/login_project/register` |
 | **`login`** | **POST** | `http://localhost:8080/login_project/login` |
@@ -21,7 +21,7 @@ Check is the service is available.
 
 ##### Response
 | Http Status | Response Body |
-|:--:|--|
+|:--:|:--|
 | `200` | The service is available! |
 
 ### register
@@ -40,7 +40,7 @@ Register a user into a SQL Server database by first name, last name, e-mail and 
 
 ##### Response 
 | Http Status | Response Body |
-|:--:|--|
+|:--:|:--|
 | `200` |  |
 | `400` | Failed request. |
 | `409` | Email already registered. |
@@ -60,7 +60,7 @@ Check user information.
 
 ##### Response
 | Http Status | Response Body |
-|:--:|--|
+|:--:|:--|
 | `200` | Accepted! |
 | `409` | There's no account associated with this email. Try another email address or create a new account. |
 | `409` | Invalid Credentials! |
@@ -81,7 +81,7 @@ Return user data by e-mail and password.
 
 ##### Response
 | Http Status | Response Body |
-|:--:|--|
+|:--:|:--|
 | `200` |  |
 
 #### update
@@ -101,7 +101,7 @@ Update user data by email.
 
 ##### Response
 | Http Status | Response Body |
-|:--:|--|
+|:--:|:--|
 | `200` | Updated successfully! |
 
 
@@ -119,5 +119,5 @@ Delete user by e-mail.
 
 ##### Response
 | Http Status | Response Body |
-|:--:|--|
+|:--:|:--|
 | `200` | Account deleted successfully! |
