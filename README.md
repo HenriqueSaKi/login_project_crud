@@ -1,7 +1,7 @@
 ## Login Project :iphone:
 ### Introduction
-I created this project to improve my skills, specially with Spring Boot, because I am very curious about this framework. <br />
-So, the main idea was make a simple user interface app to consume the Spring Boot API.
+A simple project to improve my skills, specially with Spring Boot. <br />
+So, the main idea was make an user interface app to consume the Spring Boot API.
 
 ### Goal :dart:
 The app must be capable of make a simple CRUD (create, read, update and delete), through user information registered in a SQL Server database.
