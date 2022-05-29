@@ -6,6 +6,14 @@ So, the main idea was make a simple user interface app to consume the Spring Boo
 ### Goal :dart:
 The app must be capable of make a simple CRUD (create, read, update and delete), through user information registered in a SQL Server database.
 
+### Technologies
+
+| Language | Framework | Layer |
+|--|--|--|
+| Dart | Flutter | App |
+| Java | Spring Boot | Rest Api |
+| SQL Server | --- | Database |
+
 ### Functionality :wrench:
 :pushpin: Register User <br />
 :pushpin: Sign In <br />
