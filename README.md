@@ -19,5 +19,6 @@ Clicking in the link below, you will get into each part of this project. <br />
 :link: [Dart - Flutter App](/app) <br />
 :link: [Java - Spring Boot API](/microservice/login-project)
 
+### Video demo :movie_camera:
 
-[video](loginProject.mp4)
+https://user-images.githubusercontent.com/27253114/170887941-93ef5361-21ca-48ce-a761-03aafed41de1.mov
