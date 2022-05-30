@@ -1,6 +1,16 @@
 
 ## Login Project - API :iphone:
 
+### Running via command line
+For run Spring Boot via command line. You must have maven installed and correctly added maven to your environment variable. </br>
+**Ps:** If you don't have maven installed, check this [link](https://mkyong.com/maven/how-to-install-maven-in-windows/) to help you to install and add to your environment variables properly.
+
+If you already have maven installed, navigate to the root of the project via command line and execute the command:
+
+```
+mvn spring-boot:run
+```
+
 ### API resources
 
 
